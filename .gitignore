@@ -1,0 +1,10 @@
+_incoming/
+.jupyter_runtime/
+Prac_07/Prac 07.2/data/
+Prac_08/data/
+__pycache__/
+**/.ipynb_checkpoints/
+*.rar
+*.zip
+*.tar.gz
+*.gz
